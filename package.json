@@ -1,8 +1,18 @@
 {
     "devDependencies": {
+        "@babel/core": "^7.7.7",
+        "@babel/preset-env": "^7.7.7",
+        "babel-jest": "^24.9.0",
         "jest": "^24.9.0"
     },
     "scripts": {
         "test": "jest"
-    }
+    },
+    "name": "leetcode",
+    "version": "1.0.0",
+    "description": "算法与数据结构",
+    "main": "code/sum.js",
+    "repository": "git@github.com:dzxxdzy/leetcode.git",
+    "author": "dzxxdzy <dzxxdzy@gmail.com>",
+    "license": "MIT"
 }
